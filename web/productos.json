@@ -24,21 +24,21 @@
     "nombre": "Torta Selva Negra",
     "precio": 40.00,
     "detalles": "Torta de chocolate con capas de crema y cerezas.",
-    "imagen": "multimedia/torta-selva-negra.webp",
+    "imagen": "../multimedia/torta-selva-negra.webp",
     "stock": 7
   },
   {
     "nombre": "Torta Tres Leches",
     "precio": 28.00,
     "detalles": "Torta tradicional bañada en tres tipos de leche y decorada con crema.",
-    "imagen": "multimedia/torta-tres-leches.webp",
+    "imagen": "../multimedia/torta-tres-leches.webp",
     "stock": 12
   },
   {
     "nombre": "Torta de Zanahoria",
     "precio": 32.00,
     "detalles": "Torta de zanahoria con nueces y cobertura de queso crema.",
-    "imagen": "multimedia/torta-de-zanahoria.webp",
+    "imagen": "../multimedia/torta-de-zanahoria.webp",
     "stock": 6
   },
   {
